@@ -2,6 +2,7 @@ body {
   background-image: url("http://turbo.premiumpixels.com/wp-content/uploads/2012/09/preview.jpg");
   color: white;
   text-shadow: 2px 2px 5px black;
+  text-align: center;
 }
 h1 {
   font-family: Montserrat;
@@ -44,4 +45,14 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+#familytreelink {
+  font-size: 40px;
+  font-family: "Open Sans";
+  text-decoration: none;
+  color: white;
+}
+#backtobrochure {
+  text-decoration: none;
+  color: white;
 }
