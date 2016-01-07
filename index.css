@@ -1,0 +1,47 @@
+body {
+  background-image: url("http://turbo.premiumpixels.com/wp-content/uploads/2012/09/preview.jpg");
+  color: white;
+  text-shadow: 2px 2px 5px black;
+}
+h1 {
+  font-family: Montserrat;
+  font-size: 60px;
+  text-align: center;
+}
+h2 {
+  text-align: center;
+  font-size: 40px;
+  font-family: "Open Sans"
+}
+.aeaea p, .sparta p, .ithaca p, .cyclopes p {
+  font-family: "Open Sans";
+  font-size: 25px;
+  text-align: center;
+}
+#ODYadventures, #ODYadventuressubtitle {
+  text-align: center;
+}
+#ODYadventures {
+  font-family: Montserrat;
+  font-size: 60px;
+}
+#ODYadventuressubtitle {
+  font-family: "Open Sans";
+  font-size: 40px;
+}
+#intro {
+  font-family: "Open Sans";
+  font-size: 25px;
+  text-align: center;
+}
+#disclaimer {
+  font-family: "Open Sans";
+  font-size: 20px;
+  text-align: center;
+  padding-bottom: 20px;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
