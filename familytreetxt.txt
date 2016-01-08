@@ -7,16 +7,12 @@
     <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
     <!--CSS link-->
     <link rel="stylesheet" type="text/css" href="index.css">
-    <title>ODY Code</title>
+    <title>ODY Family Tree</title>
   </head>
   <body>
-    <h1>Brochure</h1>
-    <iframe src="brochuretxt.txt"></iframe>
-    <h1>Family Tree</h1>
-    <iframe src="familytreetxt.txt"></iframe>
-    <h1>Page Styling</h1>
-    <iframe src="csstxt.txt"></iframe>
-    <h2><a href="index.html">Back to brochure</a></h2>
-    <h2><a href="familytree.html">Back to family tree</a></h2>
+    <h1>Odysseus' Family Tree</h1>
+    <img src="odytree.png" alt="Odysseus' Family Tree"></img>
+    <h2><a id="backtobrochure" href="index.html">Back to the brochure</a></h2>
+    <h2><a href="code.html">View code</a></h2>
   </body>
 </html>

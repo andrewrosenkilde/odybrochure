@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!--Montserrat-->
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:700' rel='stylesheet' type='text/css'>
+    <!--Open Sans-->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+    <!--CSS link-->
+    <link rel="stylesheet" type="text/css" href="index.css">
+    <title>ODY Brohchure</title>
+  </head>
+  <body>
+    <h1 id="ODYadventures">Odyssey Adventures Inc.</h1>
+    <h2 id="ODYadventuressubtitle">Providing Quality Vacations in Ancient Greece Since 2016</h2>
+    <hr>
+    <p id="intro">Greece: an island of beauty, nature, and religion.  Greece is the home of many great rulers and their kingdoms.  It also boasts a diverse assortment of terrifying monsters, spiteful gods and goddesses, and deceiving nymphs.  What a wonderful vacation spot!  Travel to the lush land of Aeaea, the grand palace of Odysseus in Ithaca, see the king Menelaus of Sparta, or even visit the friendly* cyclopes at their great land.</p>
+    <p id="disclaimer">*DISCLAIMER: Odyssey Adventures Inc. is not held liable for any clubbing, smashing, or other serious physical trauma experienced by visitors of the Land of the Cyclopes.  Statements made about the Land of the Cyclopes pertaining to pleasantness may not be entirely true.</p>
+    <hr>
+    <div class="aeaea">
+      <h1>Circe's Island: Aeaea</h1>
+      <p>A lush island with "deep... wooded glens" (Homer Book 10), where one can find docile animals native to the land and hear the nymph Circe "singing, lifting her spellbinding voice as she glides back and forth at her great immortal loom" (Homer Book 10).  A clear river runs through the land, where stags big enough to feed even the great Odysseus and his crewmates stop to drink and graze.  While a wonderful vacation spot, there are unfortunately no lodgings currently available unless one would like to live in a pigpen - literally.  Contact Circe for more details.</p>
+      <h2>Images of Aeaea</h2>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Schubert_Ulysses_and_Circe.jpg">
+      <p class="imgcredit">"Odysseus in the Palace of Circe" by Wilhelm Schubert</p>
+      <img src="http://www.tarotofdelphi.com/wp-content/uploads/2014/07/Circe_and_her_Swine-Briton_Riviere.jpg">
+      <p class="imgcredit">"Circe and Her Swine" by Briton Riviere</p>
+      <h2>Map</h2>
+      <img src="http://www.sigmabooks.gr/images/mapEurope_Argonauts_small/jason_argonauts_circes_island.jpg">
+      <p class="imgcredit">(Credit to www.sigmabooks.gr)</p>
+    </div>
+    <div class="sparta">
+      <h1>Sparta</h1>
+      <p>Sparta is a land revered for its soldiers.  Through extensive training, Spartans are among the best in land-based warfare.  The great king Menelaus has resided in his palace here, where Prince Telemachus "feasted within the grand, high-roofed palace, all the kin and clansmen of Menelaus in his glory, reveling warmly here as in their midst an inspired bard sang out and struck his lyre- and through them a pair of tumblers dashed and sprang, whirling in leaping handsprings, leading on the dance." (Homer Book 4).</p>
+      <h2>Images of Sparta</h2>
+      <img src="http://www.primaryhomeworkhelp.co.uk/greece/tmpl.jpg">
+      <p class="imgcredit">The Parthenon of Ancient Sparta</p>
+      <img src="http://usercontent2.hubimg.com/3143765_f520.jpg">
+      <p class="imgcredit">Ancient Sparta's Layout</p>
+      <h2>Map</h2>
+      <img src="http://www.civilization.org.uk/wp-content/uploads/Map-of-Peloponnese.jpg">
+      <p class="imgcredit">Credit to www.lahistoriaconmapas.com</p>
+    </div>
+    <div class="ithaca">
+      <h1>Ithaca</h1>
+      <p> Ithaca is Odysseus' homeland.  Ithaca is a grand island with a mountain in its wake.  It is home to the palace of Odysseus, where he will eventually return to.  Additionally, Ithaca is home to Odysseus' son, Telemachus, and his wife Penelope.  There, one can find many shepherds and herders, along with their flocks of sheep and other domestic animals.  Unfortunately, suitors run rampant in Odysseus' halls, defacing and destroying of his palace, but they will soon be driven out.</p>
+      <h2>Images of Ithaca</h2>
+      <img src="http://www.umich.edu/~homeros/Representations%20of%20Homer's%20Ideas/odysseus.jpg">
+      <p class="imgcredit">"The Return of Odysseus" by Claude Lorrain</p>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Port_Bathy_and_Capital_of_Ithaca.jpg">
+      <p class="imgcredit">"Ithaca" by Edward Dodwell</p>
+      <h2>Map</h2>
+      <img src="http://www.cwu.edu/~garrison/images/KefaloniaIthacaMap.png">
+      <p class="imgcredit">Credit to www.cwu.edu</p>
+    </div>
+    <div class="cyclopes">
+      <h1>The Land of the Cyclopes</h1>
+      <p>The Land of the Cyclopes is a wonderful island with rams and sheep galore, tended to by the Cyclopes.  These cyclopes inhabit the land and while their caves may be plentiful in food, be wary of the them.  These brutes carry clubs that are "big enough to be the mast of a pitch-black ship with her twenty oars, a freighter broad in the beam that plows through miles of sea— so long, so thick..." (Homer Book 9).  If they catch you enjoying their property, you do not want to be in the way of their club.  Nevertheless, this island is a beautiful sight to see and while unkempt by the cyclopes, displays great potential and fertility.  Odysseus himself even said that through the right care, the land could have "no mean spot, it could bear you any crop you like in season. The water-meadows along the low foaming shore run soft and moist, and your vines would never flag. The land’s clear for plowing. Harvest on harvest, a man could reap a healthy stand of grain— the subsoil is dark and rich" (Homer Book 9).</p>
+      <h2>Images of the Land of the Cyclopes</h2>
+      <img src="http://www.tellmeomuse.com/images/art/cyclops_poster.jpg">
+      <p class="imgcredit">Depiction of Polyphemus by Matthew Willey</p>
+      <img src="http://odyssey-cruises.weebly.com/uploads/1/8/0/8/18081157/494294416.jpg">
+      <p class="imgcredit">"Odysseus and Polyphemus" by Arnold Bocklin</p>
+      <h2>Map</h2>
+      <img src="http://www.irasov.com/pics/mapOdys.gif">
+      <p class="imgcredit">Credit to www.irasov.com</p>
+      <a href="familytree.html" id="familytreelink">Go to Odysseus' Family Tree</a>
+      <br>
+      <a id="familytreelink" href="code.html">View Code</a>
+    </div>
+  </body>
+</html>
