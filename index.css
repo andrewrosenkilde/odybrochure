@@ -60,3 +60,7 @@ a {
   text-decoration: none;
   color: white;
 }
+iframe {
+  height: 1500px;
+  width: 1000px;
+}
